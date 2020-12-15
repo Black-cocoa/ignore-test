@@ -10,5 +10,5 @@
 *.tlog
 *.ilk
 *.log
-*.suo
+*suo
 *.exe
