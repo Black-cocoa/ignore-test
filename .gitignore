@@ -13,3 +13,4 @@
 *suo
 *.exe
 *VC.db
+*.pch
