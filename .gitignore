@@ -2,3 +2,11 @@
 *.sdf
 *.opendb
 *.opensdf
+*.idb
+*.pdb
+*.obj
+*.exp
+*.opt
+*.tlog
+*.ilk
+*.log
