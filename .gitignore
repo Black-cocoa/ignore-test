@@ -17,3 +17,7 @@
 *.cache
 sourcetest/packages/
 sourcetest/TestResults/
+ComprehensiveTest/ipch/
+ComprehensiveTest/TestResults
+*.lib
+*.dll
